@@ -1,0 +1,16 @@
+[app/TA-TIP]
+version = 1.0.0
+owner = admin
+state = enabled
+
+[app/TA-TIP/local/inputs.conf]
+export = system
+owner = admin
+
+[app/TA-TIP/local/props.conf]
+export = system
+owner = admin
+
+[app/TA-TIP/local/transforms.conf]
+export = system
+owner = admin
